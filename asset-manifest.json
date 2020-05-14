@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-meme-generator/static/css/main.08163736.chunk.css",
+    "main.js": "/react-meme-generator/static/js/main.ca5ce9d1.chunk.js",
+    "main.js.map": "/react-meme-generator/static/js/main.ca5ce9d1.chunk.js.map",
+    "runtime-main.js": "/react-meme-generator/static/js/runtime-main.cd190795.js",
+    "runtime-main.js.map": "/react-meme-generator/static/js/runtime-main.cd190795.js.map",
+    "static/js/2.fbd0305d.chunk.js": "/react-meme-generator/static/js/2.fbd0305d.chunk.js",
+    "static/js/2.fbd0305d.chunk.js.map": "/react-meme-generator/static/js/2.fbd0305d.chunk.js.map",
+    "index.html": "/react-meme-generator/index.html",
+    "precache-manifest.ea05e586b2da907c4da9559d4bb327db.js": "/react-meme-generator/precache-manifest.ea05e586b2da907c4da9559d4bb327db.js",
+    "service-worker.js": "/react-meme-generator/service-worker.js",
+    "static/css/main.08163736.chunk.css.map": "/react-meme-generator/static/css/main.08163736.chunk.css.map",
+    "static/js/2.fbd0305d.chunk.js.LICENSE.txt": "/react-meme-generator/static/js/2.fbd0305d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd190795.js",
+    "static/js/2.fbd0305d.chunk.js",
+    "static/css/main.08163736.chunk.css",
+    "static/js/main.ca5ce9d1.chunk.js"
+  ]
+}
